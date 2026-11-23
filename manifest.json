@@ -210,7 +210,9 @@
           "githubUrl": "git+https://github.com/dangmai/prettier-plugin-apex.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/bd2375174c9296c0836e93b37d5dce8111c5b335/chunk-001.nq.gz",
+      "dep": "dep/bd2375174c9296c0836e93b37d5dce8111c5b335.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
