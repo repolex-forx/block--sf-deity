@@ -64,6 +64,152 @@
       ],
       "ast": [
         "aggregate/ast/bd2375174c9296c0836e93b37d5dce8111c5b335/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/bd2375174c9296c0836e93b37d5dce8111c5b335.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@lwc/eslint-plugin-lwc",
+          "ecosystem": "NPM",
+          "version": "2.0.0",
+          "githubOrg": "salesforce",
+          "githubRepo": "eslint-plugin-lwc",
+          "githubCommit": "05494f02203f9ffcc453bc2726b05994212031c3",
+          "githubTag": "v2.0.0",
+          "githubUrl": "git+https://github.com/salesforce/eslint-plugin-lwc.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@prettier/plugin-xml",
+          "ecosystem": "NPM",
+          "version": "3.2.2",
+          "githubOrg": "prettier",
+          "githubRepo": "plugin-xml",
+          "githubCommit": "db4b51376c286622406913db311263b85ca7ce40",
+          "githubTag": "v3.2.2",
+          "githubUrl": "git+https://github.com/prettier/plugin-xml.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@salesforce/eslint-config-lwc",
+          "ecosystem": "NPM",
+          "version": "3.2.3",
+          "githubOrg": "salesforce",
+          "githubRepo": "eslint-config-lwc",
+          "githubCommit": "06b619586a3eb5875a5b459b17452c3a629adc86",
+          "githubTag": "v3.2.3",
+          "githubUrl": "git+https://github.com/salesforce/eslint-config-lwc.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@salesforce/eslint-plugin-aura",
+          "ecosystem": "NPM",
+          "version": "2.0.0",
+          "githubOrg": "forcedotcom",
+          "githubRepo": "eslint-plugin-aura",
+          "githubCommit": "d6746b706d296f656dd741ae0bbe73bd0bacd994",
+          "githubTag": "v2.0.0",
+          "githubUrl": "git+https://github.com/forcedotcom/eslint-plugin-aura.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@salesforce/eslint-plugin-lightning",
+          "ecosystem": "NPM",
+          "version": "1.0.0",
+          "githubOrg": "salesforce",
+          "githubRepo": "eslint-plugin-lightning",
+          "githubCommit": "046f85746cc65591f47c5dabb2d5ca5401ff1990",
+          "githubTag": "v1.0.0",
+          "githubUrl": "git+https://github.com/salesforce/eslint-plugin-lightning.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@salesforce/sfdx-lwc-jest",
+          "ecosystem": "NPM",
+          "version": "7.0.1",
+          "githubOrg": "salesforce",
+          "githubRepo": "sfdx-lwc-jest",
+          "githubCommit": "c2ab0625722b5c051c291870d3a28569718eeaf7",
+          "githubTag": "v7.0.1",
+          "githubUrl": "git+https://github.com/salesforce/sfdx-lwc-jest.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint",
+          "ecosystem": "NPM",
+          "version": "8.57.1",
+          "githubOrg": "eslint",
+          "githubRepo": "eslint",
+          "githubCommit": "5b9414c501c58bfa85f41f96f821973c41e8ae74",
+          "githubTag": "v8.57.1",
+          "githubUrl": "git+https://github.com/eslint/eslint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint-plugin-import",
+          "ecosystem": "NPM",
+          "version": "2.25.4",
+          "githubOrg": "import-js",
+          "githubRepo": "eslint-plugin-import",
+          "githubCommit": "68cea3e6b6fe5fd61e5cf2e2c7c0be9e8dc597cb",
+          "githubTag": "v2.25.4",
+          "githubUrl": "git+https://github.com/import-js/eslint-plugin-import.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint-plugin-jest",
+          "ecosystem": "NPM",
+          "version": "28.8.1",
+          "githubOrg": "jest-community",
+          "githubRepo": "eslint-plugin-jest",
+          "githubCommit": "1df45e9dcb16edc4d78b24fe5544a5fa8d3aca3c",
+          "githubTag": "v28.8.1",
+          "githubUrl": "git+https://github.com/jest-community/eslint-plugin-jest.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "husky",
+          "ecosystem": "NPM",
+          "version": "9.1.5",
+          "githubOrg": "typicode",
+          "githubRepo": "husky",
+          "githubCommit": "2fee8d212c601942ad146ea9209f15c20a07fb6d",
+          "githubTag": "v9.1.5",
+          "githubUrl": "git+https://github.com/typicode/husky.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lint-staged",
+          "ecosystem": "NPM",
+          "version": "15.1.0",
+          "githubOrg": "lint-staged",
+          "githubRepo": "lint-staged",
+          "githubCommit": "26eee9d76f4643426fc033fba18e487f7e64fe1d",
+          "githubTag": "v15.1.0",
+          "githubUrl": "git+https://github.com/lint-staged/lint-staged.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "prettier",
+          "ecosystem": "NPM",
+          "version": "3.1.0",
+          "githubOrg": "prettier",
+          "githubRepo": "prettier",
+          "githubCommit": "e8ac9f8d2a1c7083ac4f8a9b960521b62d60c94f",
+          "githubTag": "3.1.0",
+          "githubUrl": "git+https://github.com/prettier/prettier.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "prettier-plugin-apex",
+          "ecosystem": "NPM",
+          "version": "2.0.1",
+          "githubOrg": "dangmai",
+          "githubRepo": "prettier-plugin-apex",
+          "githubCommit": "fbe8007886ed314d30a2b4906e82220af4ca9f49",
+          "githubTag": "v2.0.1",
+          "githubUrl": "git+https://github.com/dangmai/prettier-plugin-apex.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
