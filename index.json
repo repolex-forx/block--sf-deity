@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "sf-deity",
+  "versions": [
+    {
+      "commit": "bd2375174c9296c0836e93b37d5dce8111c5b335",
+      "tag": "main",
+      "parsed_at": "2026-11-23T06:08:41.690616+00:00"
+    }
+  ]
+}
